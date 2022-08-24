@@ -1,14 +1,12 @@
-.one,
-.five {
+.odd {
     background-color: pink;
+}
+.special {
+    font-size: large;
 }
 #two {
     color: blue;
-    font-size: large;
-}
-.three {
-    background-color: pink;
-    font-size: medium;
+    font-size: larger;
 }
 #four {
     background-color: green;
